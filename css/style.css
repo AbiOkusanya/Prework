@@ -1,0 +1,95 @@
+#container{
+	background-image: url("../images/greys.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+		}
+
+#container h2{
+	text-decoration: underline;
+}
+
+#container nav ul{
+	font-family: sans-serif;
+	font-style: oblique;
+	font-size: 20px;
+	list-style-type: none;
+	margin: 1px;
+	padding: 5px 10px;
+	position: relative;
+	top: 0px;
+	
+}
+
+
+#container nav ul li{
+	background-color: #f5ded2;
+	float: right;
+	padding-right: 15px;
+	padding-left: 15px;
+
+} 
+
+
+
+body{background-color: #A7A6BA; 
+font-family:sans-serif;
+}
+
+/*fix style for main*/
+
+#content p {
+	font-size: large;
+	width: 600px;
+	margin: 0 auto;
+}
+
+#list{
+	font-size: 20px;
+	font: cursive;
+	width: 600px;
+	margin: 0 auto}
+
+#list p{
+	font-weight: 700px;
+	font-size: 20px;
+	font: italic;
+}
+
+
+
+#table {
+	font-size: 15px;
+	font-family: cursive;
+	width: 100%;
+}
+
+
+.center table{
+margin-left: auto;
+margin-right: auto;		
+}
+
+#table th{
+	background-color: #f5ded2; 
+}
+
+.video iframe{
+border-radius: 10px;
+}
+
+		#email input[type=text] {
+			width: 80%;
+			background-color:#f5ded2;
+			border-radius: 10px;
+		}
+
+		#email input[type=submit]{
+			background-color:#f5ded2;
+			border-radius: 10px;
+
+		} 
+
+	button{
+		background-color: #f5ded2;
+	}
+	button:hover{background: #d4af37;}
